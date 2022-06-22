@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TronJones 
-- 👀 I’m interested in web development, hotography, and bartending
+- 👀 I’m interested in web development, photography, and bartending
 - 🌱 I’m currently learning full stack development 
 - 💞️ I’m looking to collaborate on anything that helps improve my knowledge and skills in front or back end development 
 - 📫 How to reach me : jonesantrone@gmail.com
